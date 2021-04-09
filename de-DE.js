@@ -1,20 +1,20 @@
 export default {
 	categories: {
 		gameOne: {
-			title: 'Game One',
-			desc: 'Create a game with an existing engine of your choice, e.g. GameMaker or Unity.',
+			title: 'Spiel Eins',
+			desc: 'Entwickle ein Spiel mit einer Engine deiner wahl, z.B. GameMaker oder Unity.',
 		},
 		gameTwo: {
-			title: 'Game Two',
-			desc: 'Create a game from scratch with your engine and compiled with vitaSDK or dolceSDK.',
+			title: 'Spiel Zwei',
+			desc: 'Eentwickle ein Spiel von grud auf mit eigens stellterer Engine und kompiliert mit vitaSDK oder dolceSDK.',
 		},
 		utility: {
 			title: 'Utility',
-			desc: 'Create a homebrew or a plugin.',
+			desc: 'Entwickle eine Homebrew App oder Plugin.',
 		},
 		port: {
 			title: 'Port',
-			desc: 'Port an application or a game from another system, or an emulator.',
+			desc: 'Portiere ein Spiel, App oder EMulator von einem anderen System.',
 		},
 	},
 
@@ -117,34 +117,34 @@ export default {
 			},
 		},
 		resources: {
-			title: 'Resources',
+			title: 'Ressourcen',
 			pageTitle: 'Tools',
 			vitaSDK: {
 				title: 'VitaSDK',
-				setupUnity: 'How to setup Unity for the PS Vita',
-				deployProject: 'How to easily deploy a project on the PS Vita',
-				gameMakerExportTool: 'GameMaker Studio PS Vita export tool',
+				setupUnity: 'Wie man Unity für die PS Vita einrichtet',
+				deployProject: 'Wie man einfach ein Projekt auf der PS Vita bereitstellt',
+				gameMakerExportTool: 'GameMaker Studio PS Vita Export Tool',
 			},
-			helpingTools: 'Tools that make your life just a bit easier',
+			helpingTools: 'Tools die dir das Leben etwas einfacher machen',
 			debuggingTools: {
-				title: 'Useful debugging tools',
-				gdbVita: 'GDB for Vita (not convenient)',
+				title: 'Nützliche Debugging Tools',
+				gdbVita: 'GDB for Vita (nicht sehr hilfreich)',
 			},
 			discordServers: {
-				title: 'Useful Discord servers',
-				henkakuSpecialities: 'mainly VitaSDK',
-				nuovaSpecialities: 'mainly VitaSDK',
-				cbpsSpecialities: 'mainly DolceSDK/Unity/GameMaker',
+				title: 'Nützliche Discord Server',
+				henkakuSpecialities: 'Hauptzächlich VitaSDK',
+				nuovaSpecialities: 'Hauptzächlich VitaSDK',
+				cbpsSpecialities: 'Hauptzächlich DolceSDK/Unity/GameMaker',
 			},
 		},
 		submissions: {
-			title: 'Submissions',
+			title: 'Einreichungen',
 			temp: {
-				contentStart: 'As the submission system is not yet completely finished, please use this ',
+				contentStart: 'Das Einrieichungssytem ist noch nicht ganz fertig, bis auf weiteres benutze bitte diesen ',
 				contentLink: 'Google Form',
-				contentEnd: ' for now.',
-				outro: "We're trying to finish it as soon as possible.",
-				thanks: 'Thank you for your understanding.',
+				contentEnd: '',
+				outro: "Wir tun unser bestest um das System schnellstmöglich fertigzustellen",
+				thanks: 'Vielen dank für euer verständnis.',
 			},
 		},
 	},
@@ -157,9 +157,9 @@ export default {
 		comingSoon: {
 			top: 'coming',
 			bottom: 'soon...',
-			detailsStart: 'The submission page will be open on ',
-			detailsDate: 'April 8',
-			detailsEnd: '',
+			detailsStart: 'Die Einrechungsseite wird ab dem ',
+			detailsDate: '8. April',
+			detailsEnd: ' offen sein',
 		},
 	},
 };
