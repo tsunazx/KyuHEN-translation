@@ -94,14 +94,14 @@ export default {
 					'A general ranking will be made with all the jurors ranking. Result will be displayed in the contest website.',
 			},
 			prizes: {
-				title: 'The Prizes',
-				contentStart: 'We will share the prize pool collected on',
-				donationPlatform: 'our Ko-Fi',
-				contentMiddle: ' (which starts with ',
+				title: 'Die Preise',
+				contentStart: 'Wir werden den Preis Pool, den wir auf',
+				donationPlatform: 'Ko-Fi',
+				contentMiddle: ' (welcher mit ',
 				amountCollected: '455 $',
-				contentEnd: ' thanks to our sponsors) amongst the 4 categories as show below.',
+				contentEnd: ' dank unserer Sponsoren startet) sammeln über die 4 Kategorien, wie weiter unten beschrieben, verteilen.',
 				conclusion:
-					'We will then decide how much we share amongst one category between 1st place, 2nd place, 3rd place (or more) depending on the number of submissions in each category.',
+					'Wir werden dann entscheiden wie wir die Gewinnsumme der einzelnen Kategorien zwischen erstem, zweiten, dritten Platz (gegebenefalls mehr) verteilen, je nach anzahl der Einsendungen in den jeweiligen Kategorien',
 			},
 			rules: {
 				title: 'Die Regeln',
