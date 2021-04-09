@@ -6,7 +6,7 @@ export default {
 		},
 		gameTwo: {
 			title: 'Spiel Zwei',
-			desc: 'Eentwickle ein Spiel von grud auf mit eigens stellterer Engine und kompiliert mit vitaSDK oder dolceSDK.',
+			desc: 'Entwickle ein Spiel von Grund auf mit eigens erstellterer Engine und kompiliert mit vitaSDK oder dolceSDK.',
 		},
 		utility: {
 			title: 'Utility',
@@ -14,7 +14,7 @@ export default {
 		},
 		port: {
 			title: 'Port',
-			desc: 'Portiere ein Spiel, App oder EMulator von einem anderen System.',
+			desc: 'Portiere ein Spiel, App oder Emulator von einem anderen System.',
 		},
 	},
 
@@ -89,9 +89,9 @@ export default {
 			voting: {
 				title: 'Die Abstimmung',
 				content1:
-					'DIe jororen werden individuelle Posts einreichen die erklären die sie zu ihrem Ergebnis kommen, dieses with beinhalten was sie mochten, was sie nicht mochten, Verbesserungsvorschäge und generelle Ratschhläge für das Projekt',
+					'Die Juroren werden individuelle Posts einreichen, welche erklären wie sie zu ihrem Ergebnis gekommen sind. Dieses beinhaltet was sie mochten, was sie nicht mochten, Verbesserungsvorschäge und generelle Ratschhläge für das Projekt',
 				content2:
-					'Es wird eine Abstimmung geben mit allen Juroren. Ergebnisses werden auf der Wettbewerbs Website veröffentlicht.',
+					'Es wird eine Abstimmung geben mit allen Juroren. Ergebnisses werden auf der Wettbewerbs-Website veröffentlicht.',
 			},
 			prizes: {
 				title: 'Die Preise',
@@ -101,7 +101,7 @@ export default {
 				amountCollected: '455 $',
 				contentEnd: ' dank unserer Sponsoren startet) sammeln über die 4 Kategorien, wie weiter unten beschrieben, verteilen.',
 				conclusion:
-					'Wir werden dann entscheiden wie wir die Gewinnsumme der einzelnen Kategorien zwischen erstem, zweiten, dritten Platz (gegebenefalls mehr) verteilen, je nach anzahl der Einsendungen in den jeweiligen Kategorien',
+					'Wir werden dann entscheiden wie wir die Gewinnsumme der einzelnen Kategorien zwischen erstem, zweiten, dritten Platz (gegebenefalls mehr) verteilen, je nach Anzahl der Einsendungen in den jeweiligen Kategorien',
 			},
 			rules: {
 				title: 'Die Regeln',
@@ -157,7 +157,7 @@ export default {
 		comingSoon: {
 			top: 'coming',
 			bottom: 'soon...',
-			detailsStart: 'Die Einrechungsseite wird ab dem ',
+			detailsStart: 'Die Seite zum einreichen deines Projektes wird ab dem ',
 			detailsDate: '8. April',
 			detailsEnd: ' offen sein',
 		},
