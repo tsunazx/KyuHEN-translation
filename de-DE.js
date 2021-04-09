@@ -84,14 +84,14 @@ export default {
 					'The prize pool will be split according to the prize share chart that you can find in the rules and info section.',
 			},
 			categories: {
-				title: 'The four Categories',
+				title: 'Die vier Kategorien',
 			},
 			voting: {
-				title: 'The Vote',
+				title: 'Die Abstimmung',
 				content1:
-					'The jury will individually submit a post explaining how they made their ranking which will cover what they liked, disliked, any idea of improvement and advices for the said project.',
+					'DIe jororen werden individuelle Posts einreichen die erklären die sie zu ihrem Ergebnis kommen, dieses with beinhalten was sie mochten, was sie nicht mochten, Verbesserungsvorschäge und generelle Ratschhläge für das Projekt',
 				content2:
-					'A general ranking will be made with all the jurors ranking. Result will be displayed in the contest website.',
+					'Es wird eine Abstimmung geben mit allen Juroren. Ergebnisses werden auf der Wettbewerbs Website veröffentlicht.',
 			},
 			prizes: {
 				title: 'Die Preise',
