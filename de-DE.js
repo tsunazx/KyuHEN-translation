@@ -104,15 +104,15 @@ export default {
 					'We will then decide how much we share amongst one category between 1st place, 2nd place, 3rd place (or more) depending on the number of submissions in each category.',
 			},
 			rules: {
-				title: 'The Rules',
+				title: 'Die Regeln',
 				splashScreen:
-					'This is the splashscreen that must be used at the boot of your game/homebrew/port:',
+					'Das hier muss der Splashscreen bei deinem Spiel/Homebrew/Port sein:',
 			},
 			contact: {
-				title: 'Contact',
-				intro: 'Have any questions about the contest? Want to have a chat with us?',
-				contentStart: 'You can either send an e-mail to ',
-				contentMiddle: ' or a DM to our Twitter ',
+				title: 'Kontakt',
+				intro: 'Hast du Fragen bezüglich des Wettbewerbs? Möchtest du mit uns reden?',
+				contentStart: 'Du kannst entweder eine e-mail an ',
+				contentMiddle: ' senden oder eine PN an unseren Twitter Account ',
 				contentEnd: '.',
 			},
 		},
